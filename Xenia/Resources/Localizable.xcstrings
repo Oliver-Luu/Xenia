@@ -1,0 +1,1335 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@  (where you are)" : {
+
+    },
+    "%@  (your region)" : {
+
+    },
+    "%@ · %@ · %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ · %2$@ · %3$@"
+          }
+        }
+      }
+    },
+    "%@ → Tutorial → Replay the tutorial, whenever you want it again." : {
+
+    },
+    "%@ away" : {
+
+    },
+    "%@ has arrival reminders off, so this place won't nudge you." : {
+
+    },
+    "%@ of the bill" : {
+
+    },
+    "%@ on %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ on %2$@"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "%lld min" : {
+
+    },
+    "%lld visit%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld visit%2$@"
+          }
+        }
+      }
+    },
+    "%lld ways" : {
+
+    },
+    "%lld×" : {
+
+    },
+    "%lldd left" : {
+
+    },
+    "1 way" : {
+
+    },
+    "1–%lld" : {
+
+    },
+    "A base tip: the number you'd leave without thinking" : {
+
+    },
+    "A café isn't a steakhouse. Xenia groups places into categories, and each one carries its own starting tip and its own things worth asking about. Six are set up for you — edit them, or make your own." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A café isn't a steakhouse. Xenia groups places into categories, and each one carries its own starting tip and items worth asking about. Six are set up for you — edit them, delete them, or make your own."
+          }
+        }
+      }
+    },
+    "A cash amount" : {
+
+    },
+    "A category holds a base tip and the rules you work at checkout." : {
+
+    },
+    "A nudge about %lld min after you arrive here, even if %@ has reminders off. Needs a GPS point and reminders on in Settings." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A nudge about %1$lld min after you arrive here, even if %2$@ has reminders off. Needs a GPS point and reminders on in Settings."
+          }
+        }
+      }
+    },
+    "A percentage" : {
+
+    },
+    "A pretend place for this walkthrough. Nothing you do here is saved." : {
+
+    },
+    "A saved place inherits its category, then bends it. Xenia can pick the place out for you when you get there, so the tip screen is already set up before you've put the phone down." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A saved place inherits its category, then bends it. Xenia can pick the place out for you when you get there, so the tip screen is already set up before you've put your phone down."
+          }
+        }
+      }
+    },
+    "A score at the neutral mark does nothing. Above lifts the tip, below trims it." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A score at the neutral mark keeps the tip amount unchanged. Above the default mark lifts the tip, while below trims it."
+          }
+        }
+      }
+    },
+    "A tip isn't one number. Xenia starts from what you'd normally leave at a place like this one, then moves it for the service you actually got." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A tip isn't one number. Xenia starts from what you'd normally leave at a place like this one, then shifts it for the service you actually got."
+          }
+        }
+      }
+    },
+    "About a minute. You can replay it any time from %@." : {
+
+    },
+    "Add" : {
+
+    },
+    "Add a rating" : {
+
+    },
+    "Add a rating here" : {
+
+    },
+    "Add an adjustment" : {
+
+    },
+    "Add an adjustment here" : {
+
+    },
+    "Add places you visit often, or save them from the tip screen when you get there." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add places you visit often, or save them from the tip screen when you arrive."
+          }
+        }
+      }
+    },
+    "Add ratings and adjustments asked at this one place only" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add ratings and adjustments asked at this place only"
+          }
+        }
+      }
+    },
+    "Add to Quick access" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add to Quick Access"
+          }
+        }
+      }
+    },
+    "Adds per round kept open" : {
+
+    },
+    "Adjust by" : {
+
+    },
+    "Adjusted for this bill only." : {
+
+    },
+    "Adjustment rules" : {
+
+    },
+    "Adjustments" : {
+
+    },
+    "Adjustments are the things a rating can't capture. Each shows what it's worth before you touch it, so there's no guessing. Some are a simple on/off; some count up." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adjustments are the things a rating can't capture. Each shows what it's worth before you modify it. Some are a simple toggle while others can be count up."
+          }
+        }
+      }
+    },
+    "Adjustments: one-off things that happened, worth a few points either way" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Adjustments: one-off events, that are worth a modification in tip"
+          }
+        }
+      }
+    },
+    "Allergy, off-menu change, split plates" : {
+
+    },
+    "Allow while using Xenia" : {
+
+    },
+    "Also ordered food" : {
+
+    },
+    "Amounts will show in %@ while you're here. You can change this any time in Settings." : {
+
+    },
+    "And a nudge once you've sat down" : {
+
+    },
+    "Anything worth remembering" : {
+
+    },
+    "Are you sure?" : {
+
+    },
+    "Arrival reminders are on" : {
+
+    },
+    "Arrive, and it's already selected — or pick from what's nearby" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrive, and it's already selected based on your location and saved places. Alternatively, pick from what's nearby."
+          }
+        }
+      }
+    },
+    "At %@?" : {
+
+    },
+    "Atmosphere" : {
+
+    },
+    "Auto-place the decimal" : {
+
+    },
+    "Automatic" : {
+
+    },
+    "Back" : {
+
+    },
+    "Bad weather" : {
+
+    },
+    "Bar / Pub" : {
+
+    },
+    "Base" : {
+
+    },
+    "Base %@" : {
+
+    },
+    "Base tip" : {
+
+    },
+    "Beer or wine pour only" : {
+
+    },
+    "Brought food to the table" : {
+
+    },
+    "Café / Coffee Shop" : {
+
+    },
+    "Can apply more than once" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Cash" : {
+
+    },
+    "Category" : {
+
+    },
+    "Change place" : {
+
+    },
+    "Check for auto-gratuity before adding" : {
+
+    },
+    "Checking your location." : {
+
+    },
+    "Choose a place" : {
+
+    },
+    "Clear text" : {
+
+    },
+    "Clear the point" : {
+
+    },
+    "Continue" : {
+
+    },
+    "Couldn't finish restoring this. Try again." : {
+
+    },
+    "Couldn’t restore this yet" : {
+
+    },
+    "Craft cocktails" : {
+
+    },
+    "Create" : {
+
+    },
+    "Curbside brought to the car" : {
+
+    },
+    "Currency" : {
+
+    },
+    "Currency, distance units, and whether tips start as a percentage or cash" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Currency, distance units, and percentage or cash units for tips."
+          }
+        }
+      }
+    },
+    "Delete" : {
+
+    },
+    "Delete “%@”?" : {
+
+    },
+    "Delete %@?" : {
+
+    },
+    "Delete group" : {
+
+    },
+    "Delete the “%@” group?" : {
+
+    },
+    "Delete the %@ visit?" : {
+
+    },
+    "Delete this adjustment" : {
+
+    },
+    "Delete this adjustment?" : {
+
+    },
+    "Delete this category" : {
+
+    },
+    "Delete this category?" : {
+
+    },
+    "Delete this group?" : {
+
+    },
+    "Delete this place" : {
+
+    },
+    "Delete this place?" : {
+
+    },
+    "Delete this rating" : {
+
+    },
+    "Delete this rating?" : {
+
+    },
+    "Delete this visit?" : {
+
+    },
+    "Delete this?" : {
+
+    },
+    "deleted %@" : {
+
+    },
+    "Deleted places, categories, rules, ratings, groups, and tips wait here for 30 days, then clear on their own." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deleted places, categories, rules, ratings, groups, and tips are deleted after 30 days."
+          }
+        }
+      }
+    },
+    "Deleted something by mistake? Recently Deleted holds it for 30 days" : {
+
+    },
+    "Deletes the category along with its %@. Places using it fall back to no category." : {
+
+    },
+    "Delivery" : {
+
+    },
+    "Digits fill in from the right, cash-register style — that's a setting you can change." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Digits fill in from the right, so there’s no need to add a decimal place. Modifiable in settings."
+          }
+        }
+      }
+    },
+    "Discard" : {
+
+    },
+    "Don't remind me here" : {
+
+    },
+    "Don't round" : {
+
+    },
+    "Done" : {
+
+    },
+    "Each point" : {
+
+    },
+    "Each rating sits at a neutral mark that does nothing. Push one above it and the tip lifts; pull it below and the tip trims. Try the tracks and watch the figure move." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Each rating sits at a neutral mark that leaves the total tip unmodified. Push a mark above the neutral mark the tip increases; pull it below and the tip decreases. Try the tracks and watch the total tip change."
+          }
+        }
+      }
+    },
+    "Edit adjustment" : {
+
+    },
+    "Edit category" : {
+
+    },
+    "Edit place" : {
+
+    },
+    "Edit rating" : {
+
+    },
+    "Empty" : {
+
+    },
+    "Empty Recently Deleted" : {
+
+    },
+    "Empty Recently Deleted?" : {
+
+    },
+    "Enter a bill amount" : {
+
+    },
+    "Enter the tip as" : {
+
+    },
+    "Every category, rule, and rating goes back to Xenia defaults. Saved places lose their category until you set it again." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every category, rule, and rating goes back to Xenia defaults. Saved places will lose their category until you set it again."
+          }
+        }
+      }
+    },
+    "Every category's arrival-reminder timing goes back to the Xenia default. Nothing else changes." : {
+
+    },
+    "Every kind of place tips differently" : {
+
+    },
+    "Every place, group, saved tip, category, rule, and rating is removed, and Recently Deleted is emptied. Categories go back to the Xenia starter set. Your currency and display settings stay." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every place, group, saved tip, category, rule, and rating is removed, and Recently Deleted is emptied. Categories go back to the Xenia default set. Currency and display will remain unmodified."
+          }
+        }
+      }
+    },
+    "Every saved place and place group is removed. Your history stays." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every saved place and place group is removed. Your history will remain unmodified."
+          }
+        }
+      }
+    },
+    "Every saved tip is removed. Your places and rules stay." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Every saved tip is removed. Your places and rules will remain unmodified."
+          }
+        }
+      }
+    },
+    "Every visit starts here" : {
+
+    },
+    "Extra round" : {
+
+    },
+    "Fast Food / Counter" : {
+
+    },
+    "Finding your location…" : {
+
+    },
+    "Finish" : {
+
+    },
+    "Finishing a tip offers to save the place and log what you left. The log is a plain record of where you were, what you paid and how you scored it — handy when you're back and can't remember." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finishing a tip offers to save the place and log what you left. The log is a plain record of where you were, what you paid and how you scored the service."
+          }
+        }
+      }
+    },
+    "Follow the category" : {
+
+    },
+    "Following the %@ default. Nudge it to set one just for this place." : {
+
+    },
+    "Follows %@ — a nudge about %lld min after you arrive." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Follows %1$@ — a nudge about %2$lld min after you arrive."
+          }
+        }
+      }
+    },
+    "Food" : {
+
+    },
+    "from %@" : {
+
+    },
+    "Give this place a name to keep it, or just log the tip on its own." : {
+
+    },
+    "Give this place a name to keep it." : {
+
+    },
+    "GPS point" : {
+
+    },
+    "Group" : {
+
+    },
+    "Had to flag someone down" : {
+
+    },
+    "Held at %@ from %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Held at %1$@ from %2$@"
+          }
+        }
+      }
+    },
+    "Here's a made-up sit-down dinner. Start where you always start: punch in the bill and say how many ways it splits." : {
+
+    },
+    "History" : {
+
+    },
+    "Hold to change quickly" : {
+
+    },
+    "How close you have to get" : {
+
+    },
+    "How was it" : {
+
+    },
+    "Imperial (ft, mi)" : {
+
+    },
+    "In History" : {
+
+    },
+    "In Places" : {
+
+    },
+    "iOS asks for “Always” separately — it may prompt you later, once you've been near a saved place. You can also set it now in iOS Settings." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS asks for “Always” separately — it may prompt you later, once you've been near a saved place. You can also set it in iOS Settings."
+          }
+        }
+      }
+    },
+    "iOS wouldn't let Xenia watch your saved places, so arrival reminders aren't running. Check that Location is set to “Always” with Precise Location on." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS does not let Xenia watch your saved places, so arrival reminders aren't running. Check that Location is set to “Always” with Precise Location on to reenable."
+          }
+        }
+      }
+    },
+    "Just log the tip" : {
+
+    },
+    "Just poured drip coffee" : {
+
+    },
+    "Kitchen handled a special request" : {
+
+    },
+    "Large or complicated order" : {
+
+    },
+    "Large party" : {
+
+    },
+    "Latte art / real effort" : {
+
+    },
+    "Left at door, no contact issues" : {
+
+    },
+    "Let Xenia see where you are" : {
+
+    },
+    "Let's work one out" : {
+
+    },
+    "Lists restaurants nearby when it's somewhere new" : {
+
+    },
+    "Location is off for Xenia. Turn it on and set it to “Always” so reminders work in the background." : {
+
+    },
+    "Location is off for Xenia. You can still pick your place by hand every time, or turn it on in iOS Settings." : {
+
+    },
+    "Location is off. Pick a place by hand, or turn it on in Settings." : {
+
+    },
+    "Long distance" : {
+
+    },
+    "Looks like you're in %@" : {
+
+    },
+    "Menu guidance, comped something, remembered us" : {
+
+    },
+    "Metric (m, km)" : {
+
+    },
+    "Move a rating off its neutral mark" : {
+
+    },
+    "Move down" : {
+
+    },
+    "Move up" : {
+
+    },
+    "Name" : {
+
+    },
+    "Name & save it" : {
+
+    },
+    "Name this place above to add your own" : {
+
+    },
+    "Neutral mark" : {
+
+    },
+    "New adjustment" : {
+
+    },
+    "New category" : {
+
+    },
+    "New group" : {
+
+    },
+    "New place" : {
+
+    },
+    "New rating" : {
+
+    },
+    "Next" : {
+
+    },
+    "No arrival nudge here, even if %@ has reminders on." : {
+
+    },
+    "No categories" : {
+
+    },
+    "No categories." : {
+
+    },
+    "No category" : {
+
+    },
+    "No GPS point saved" : {
+
+    },
+    "No group" : {
+
+    },
+    "No matches." : {
+
+    },
+    "No place selected" : {
+
+    },
+    "No saved places" : {
+
+    },
+    "None yet." : {
+
+    },
+    "Not now" : {
+
+    },
+    "Not saved" : {
+
+    },
+    "Nothing found nearby." : {
+
+    },
+    "Nothing here" : {
+
+    },
+    "Nothing matches “%@”." : {
+
+    },
+    "Nothing saved nearby. Pick a place to save it here." : {
+
+    },
+    "Nothing saved yet" : {
+
+    },
+    "Notifications are off for Xenia, so reminders can't come through." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notifications are off for Xenia, so reminders cannot come through."
+          }
+        }
+      }
+    },
+    "Off" : {
+
+    },
+    "Off unless you turn it on, and you can switch it back off in %@ at any time." : {
+
+    },
+    "OK" : {
+
+    },
+    "On the real screen this panel also saves the place and logs the tip." : {
+
+    },
+    "One notification, then nothing until your next visit" : {
+
+    },
+    "Only saved places you've tipped at before — never anywhere else you go" : {
+
+    },
+    "Open iOS Settings" : {
+
+    },
+    "Open recently deleted" : {
+
+    },
+    "Open Settings" : {
+
+    },
+    "Open the %@ screen and Xenia takes one location reading, checks it against your saved places, and — if you're at one — sets the whole screen up before you've typed anything. That's all it's for while the app is open." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open the %@ screen and Xenia takes one location reading, checks it against your saved places, and sets the calculation screen up before you've typed anything. That's all it's for while the app is open."
+          }
+        }
+      }
+    },
+    "Open Xenia when you're ready to work out the tip." : {
+
+    },
+    "Optional" : {
+
+    },
+    "Order was wrong" : {
+
+    },
+    "Percentage" : {
+
+    },
+    "Permanently removes everything in the trash. This can’t be undone." : {
+
+    },
+    "Permission" : {
+
+    },
+    "Pick a place, put in the bill, say how it went." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick a place, put in the bill, and say how it went."
+          }
+        }
+      }
+    },
+    "Pick a place, put in the bill, say how it went. Everything else is there for when you want it." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pick a place, put in the bill, and say how it went. Everything else is there for when you want it."
+          }
+        }
+      }
+    },
+    "Pin" : {
+
+    },
+    "Pin to the top of Places" : {
+
+    },
+    "Place" : {
+
+    },
+    "Places" : {
+
+    },
+    "Places using this category fall back to no category." : {
+
+    },
+    "Practice" : {
+
+    },
+    "PRACTICE" : {
+
+    },
+    "Practice tip, %@, %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Practice tip, %1$@, %2$@"
+          }
+        }
+      }
+    },
+    "Precise Location is off for Xenia, so it can't tell when you've arrived. Turn it on in iOS Settings." : {
+
+    },
+    "Puts this %@ back where it was." : {
+
+    },
+    "Rating" : {
+
+    },
+    "Ratings: what you score at the table, each on its own scale and worth" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ratings: what you score at the table, each on its own scale and values"
+          }
+        }
+      }
+    },
+    "Read it off" : {
+
+    },
+    "Readings stay on your phone — Xenia has no server to send them to" : {
+
+    },
+    "Recently deleted" : {
+
+    },
+    "Recognises a saved place you're standing in" : {
+
+    },
+    "Remind me here" : {
+
+    },
+    "Remind me to tip at these places" : {
+
+    },
+    "Reminders need location set to “Always” and notifications allowed. Both are in iOS Settings." : {
+
+    },
+    "Remove from Quick access" : {
+
+    },
+    "Rename" : {
+
+    },
+    "Rename group" : {
+
+    },
+    "Replay the tutorial" : {
+
+    },
+    "Reset" : {
+
+    },
+    "Reset categories & rules" : {
+
+    },
+    "Reset categories & rules?" : {
+
+    },
+    "Reset everything" : {
+
+    },
+    "Reset everything?" : {
+
+    },
+    "Reset history" : {
+
+    },
+    "Reset places" : {
+
+    },
+    "Reset reminder times" : {
+
+    },
+    "Reset reminder times?" : {
+
+    },
+    "Reset saved places" : {
+
+    },
+    "Reset saved places?" : {
+
+    },
+    "Reset times" : {
+
+    },
+    "Reset tip history" : {
+
+    },
+    "Reset tip history?" : {
+
+    },
+    "Reset to defaults" : {
+
+    },
+    "Restore" : {
+
+    },
+    "Restore “%@” first — this rating belonged to it." : {
+
+    },
+    "Restore “%@” first — this rule belonged to it." : {
+
+    },
+    "Restore “%@”?" : {
+
+    },
+    "Restore this?" : {
+
+    },
+    "Round the tip" : {
+
+    },
+    "Round the tip to a whole %@" : {
+
+    },
+    "Round the total" : {
+
+    },
+    "Round the total to a whole %@" : {
+
+    },
+    "Rounding" : {
+
+    },
+    "Rule" : {
+
+    },
+    "Rules" : {
+
+    },
+    "Save" : {
+
+    },
+    "Save the spots you go back to" : {
+
+    },
+    "Save the spots you go back to, with their own quirks" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save the spots you go back to, with their own unique qualities"
+          }
+        }
+      }
+    },
+    "Save this place & add a rating" : {
+
+    },
+    "Save this place & add an adjustment" : {
+
+    },
+    "Save this place?" : {
+
+    },
+    "Save this tip to History?" : {
+
+    },
+    "Save this tip?" : {
+
+    },
+    "Save to History" : {
+
+    },
+    "Save to Places" : {
+
+    },
+    "Save to Places & History" : {
+
+    },
+    "Say how it went" : {
+
+    },
+    "Say no and nothing breaks: you'll just pick the place from a list each time." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Say no and nothing breaks: you'll just pick the place from a list each time."
+          }
+        }
+      }
+    },
+    "Score the visit and the tip follows" : {
+
+    },
+    "Searching" : {
+
+    },
+    "Server went above and beyond" : {
+
+    },
+    "Service" : {
+
+    },
+    "Set a different base for this place" : {
+
+    },
+    "Set just for this place. Everywhere else in %@ is unchanged." : {
+
+    },
+    "Set to %lld" : {
+
+    },
+    "Set your own starting percentage per kind of place" : {
+
+    },
+    "Settings" : {
+
+    },
+    "Sit-Down Restaurant" : {
+
+    },
+    "Skip" : {
+
+    },
+    "Slow refills, long waits to order or pay" : {
+
+    },
+    "Start tipping" : {
+
+    },
+    "Starts from the %@ default. Set an amount — ratings and adjustments still apply on top." : {
+
+    },
+    "Step %lld of %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Step %1$lld of %2$lld"
+          }
+        }
+      }
+    },
+    "Stepper, up to %lld times" : {
+
+    },
+    "Suggest a tip when I arrive" : {
+
+    },
+    "Switch off a category adjustment that never applies here" : {
+
+    },
+    "Switch to %@" : {
+
+    },
+    "Takeout / Pickup" : {
+
+    },
+    "That's the whole app" : {
+
+    },
+    "The %@ default." : {
+
+    },
+    "The Blue Fig" : {
+
+    },
+    "the category" : {
+
+    },
+    "The panel shows its working: every term that moved the tip, then the bill, the tip and the total. Round it to a whole %@ if you'd rather hand over neat money." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The panel shows its modifications: every term that moved the tip, then the bill, the tip and the total. Round it to a whole %@ is also available."
+          }
+        }
+      }
+    },
+    "The places stay — they go back to being grouped by category." : {
+
+    },
+    "The reminder is the one thing Xenia can't do with the app closed unless iOS lets it watch for you arriving — that's the “Always” setting, and it's why the second prompt asks for more than the first. Xenia only ever looks for places you've already tipped at." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reminders are one thing Xenia cannot do with the app closed unless iOS lets it watch for you arriving — that's the “Always” setting, and it's why the second prompt asks for more than the first. Xenia only ever looks for places you've already tipped at."
+          }
+        }
+      }
+    },
+    "Then the one-offs" : {
+
+    },
+    "They made a custom order" : {
+
+    },
+    "This item's data couldn't be read." : {
+
+    },
+    "This place isn't saved to Places yet." : {
+
+    },
+    "This removes the place and its overrides. Your history stays." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This removes the place and its overrides. Your history remains unchanged."
+          }
+        }
+      }
+    },
+    "This tip isn't in Places or History yet." : {
+
+    },
+    "This tip isn't in your History yet." : {
+
+    },
+    "Tip" : {
+
+    },
+    "TIP" : {
+
+    },
+    "Tip a bit more at your local? Override the base just there" : {
+
+    },
+    "Tip, after ratings & adjustments" : {
+
+    },
+    "Tips you save from the tip screen land here." : {
+
+    },
+    "Top of the scale" : {
+
+    },
+    "Trigger distance" : {
+
+    },
+    "Turn an adjustment on" : {
+
+    },
+    "Turn on arrival reminders" : {
+
+    },
+    "Turn on location, or search by name." : {
+
+    },
+    "Unnamed category" : {
+
+    },
+    "Unnamed group" : {
+
+    },
+    "Unnamed place" : {
+
+    },
+    "Unpin" : {
+
+    },
+    "Untitled" : {
+
+    },
+    "Untitled rating" : {
+
+    },
+    "Untitled rule" : {
+
+    },
+    "Up to" : {
+
+    },
+    "Use %@" : {
+
+    },
+    "Use category default" : {
+
+    },
+    "Use my current location" : {
+
+    },
+    "Use the default" : {
+
+    },
+    "Uses the category default, %@." : {
+
+    },
+    "Very late / items missing" : {
+
+    },
+    "Visits" : {
+
+    },
+    "Wait after arriving" : {
+
+    },
+    "Waits the time you set per category — about 3 minutes at a café, closer to an hour at a long dinner" : {
+
+    },
+    "Welcome to Xenia" : {
+
+    },
+    "What Xenia keeps" : {
+
+    },
+    "Where you are" : {
+
+    },
+    "Xenia" : {
+
+    },
+    "Xenia can see where you are" : {
+
+    },
+    "Xenia needs “Always” location access to remind you while it's closed. It's currently “While Using”." : {
+
+    },
+    "Your region" : {
+
+    },
+    "Your starting tip. Ratings and adjustments still move it up or down." : {
+
+    },
+    "Your Visit" : {
+
+    }
+  },
+  "version" : "1.0"
+}

@@ -10,23 +10,26 @@ import SwiftData
 
 @main
 struct XeniaApp: App {
-    var sharedModelContainer: ModelContainer = {
-        let schema = Schema([
-            Item.self,
-        ])
-        let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
-
-        do {
-            return try ModelContainer(for: schema, configurations: [modelConfiguration])
-        } catch {
-            fatalError("Could not create ModelContainer: \(error)")
-        }
-    }()
+    @UIApplicationDelegateAdaptor(AppDelegate.self) private var appDelegate
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
         }
-        .modelContainer(sharedModelContainer)
+        .modelContainer(Persistence.container)
+    }
+}
+
+/// Runs on every launch — including the background relaunches CoreLocation
+/// triggers when you cross a monitored region — so the arrival monitor is wired
+/// up even when there's no UI.
+final class AppDelegate: NSObject, UIApplicationDelegate {
+    func application(
+        _ application: UIApplication,
+        didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil
+    ) -> Bool {
+        _ = Persistence.container
+        ArrivalReminders.shared.start()
+        return true
     }
 }
